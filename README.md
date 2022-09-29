@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **royshodev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xC0QrUNqKryTYj8FflhAdbmQp8l894UP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10iwyD7vfeUPuORi7SJK48ef6K4LD3Ymv/view?usp=sharing)
 
 - 📄 My [Portfolio](https://sahadevroy.netlify.app/)
 
