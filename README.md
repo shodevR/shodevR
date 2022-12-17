@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **royshodev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10iwyD7vfeUPuORi7SJK48ef6K4LD3Ymv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/180Zgs6hICwJVaEJfahpiOlQPFy9hBDDD/view?usp=share_link)
 
-- 📄 My [Portfolio](https://sahadevroy.netlify.app/)
+- 📄 My [Portfolio](https://shodevr.github.io/)
 
 - ⚡ Fun fact **I think I am and loves to connect to new people.**
 
